@@ -1,1 +1,10 @@
-How to merge branches in github
+How to merge branches in github:
+
+
+- go to the branch you want to be the receiver: git checkout <branch name>
+
+- do: git merge <name of branch to be merged into this>
+
+- finally do a push: git push
+
+That's it!
